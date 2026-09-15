@@ -1,4 +1,4 @@
-# BD-exercicios-part3
+# Exercícios de Banco de Dados - Domínio, Relação e Tuplas/Registro
 
 1) Um berçario deseja informatizar suas operações. Quando um bebê nasce, algumas
 informações são armazenadas sobre ele, tais como: nome, data do nascimento, peso do
